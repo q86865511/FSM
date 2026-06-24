@@ -4,7 +4,7 @@
 
 ![Verilog](https://img.shields.io/badge/HDL-Verilog-blue)
 ![Simulator](https://img.shields.io/badge/sim-Icarus%20Verilog-green)
-![License](https://img.shields.io/badge/license-未指定-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 問題(這個程式做什麼)
 
