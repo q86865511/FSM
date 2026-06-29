@@ -1,0 +1,18 @@
+# Verilog / 模擬產物
+*.vcd
+*.vvp
+*.lxt
+*.lxt2
+*.fst
+*.out
+*.wdb
+*.jou
+*.log
+work/
+xsim.dir/
+.Xil/
+
+# 系統 / IDE
+.DS_Store
+Thumbs.db
+.vscode/
